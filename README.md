@@ -1,8 +1,7 @@
 # Hi there 👋 I'm Tanya Chauhan
 
 🎓 I'm a Computer Science student passionate about learning and building cool things with code.
-
-
+<br>
 
 ### 💻 What I'm Learning
 - 🌱 Full Stack Web Development  
@@ -20,6 +19,8 @@
 - **ML:** scikit-learn, pandas, matplotlib
 
 
+
+
 ### 🚀 Projects
 Here are some of the projects I’m working on:
 - 🎯 Rock vs Mine Classification (ML)
@@ -31,12 +32,14 @@ Here are some of the projects I’m working on:
 
 
 
+
 ### 📚 Currently Focused On
 - Deepening ML concepts through projects
 - Mastering React & Node.js for full stack development
 - Practicing DSA for placement preparation
 
----
+
+
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn] (https://www.linkedin.com/in/tanya-chauhan-99a5aa355/) 
