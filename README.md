@@ -1,4 +1,51 @@
-## Hi there 👋
+# Hi there 👋 I'm Tanya Chauhan
+
+🎓 I'm a Computer Science student passionate about learning and building cool things with code.
+
+
+
+### 💻 What I'm Learning
+- 🌱 Full Stack Web Development  
+- 🤖 Machine Learning (Python, scikit-learn, pandas, NumPy)  
+- 🧠 Data Structures & Algorithms (DSA)  
+- ⚙️ Tools: Git, GitHub, Jupyter Notebook, VS Code
+
+
+
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, C++
+- **Frontend:** HTML, CSS, JavaScript, React (learning)
+- **Backend:** Node.js (learning)
+- **Databases:** MongoDB (learning)
+- **ML:** scikit-learn, pandas, matplotlib
+
+
+### 🚀 Projects
+Here are some of the projects I’m working on:
+- 🎯 Rock vs Mine Classification (ML)
+- 🏠 House Price Prediction (ML)
+- 📰 Fake News Detection (ML)
+- 💉 Diabetes Prediction (ML)
+
+[👉 View my projects] (https://github.com/tanyachauhan084?tab=repositories)
+
+
+
+### 📚 Currently Focused On
+- Deepening ML concepts through projects
+- Mastering React & Node.js for full stack development
+- Practicing DSA for placement preparation
+
+---
+
+### 📫 Let's Connect
+- 💼 [LinkedIn] (https://www.linkedin.com/in/tanya-chauhan-99a5aa355/) 
+- 🗂️ [GitHub] (https://github.com/tanyachauhan084)
+
+---
+
+*Thanks for visiting my profile! 😊*
+
 
 <!--
 **tanyachauhan084/tanyachauhan084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
