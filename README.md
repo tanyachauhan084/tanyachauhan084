@@ -9,7 +9,7 @@
 - 🧠 Data Structures & Algorithms (DSA)  
 - ⚙️ Tools: Git, GitHub, Jupyter Notebook, VS Code
 
-
+<br>
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, C++
@@ -19,7 +19,7 @@
 - **ML:** scikit-learn, pandas, matplotlib
 
 
-
+<br>
 
 ### 🚀 Projects
 Here are some of the projects I’m working on:
@@ -31,21 +31,21 @@ Here are some of the projects I’m working on:
 [👉 View my projects] (https://github.com/tanyachauhan084?tab=repositories)
 
 
-
+<br>
 
 ### 📚 Currently Focused On
 - Deepening ML concepts through projects
 - Mastering React & Node.js for full stack development
 - Practicing DSA for placement preparation
 
-
+<br>
 
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn] (https://www.linkedin.com/in/tanya-chauhan-99a5aa355/) 
 - 🗂️ [GitHub] (https://github.com/tanyachauhan084)
 
----
+<br>
 
 *Thanks for visiting my profile! 😊*
 
