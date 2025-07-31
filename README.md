@@ -6,7 +6,6 @@
 ### 💻 What I'm Learning
 - 🌱 Full Stack Web Development  
 - 🤖 Machine Learning (Python, scikit-learn, pandas, NumPy)  
-- 🧠 Data Structures & Algorithms (DSA)  
 - ⚙️ Tools: Git, GitHub, Jupyter Notebook, VS Code
 
 <br>
@@ -36,7 +35,6 @@ Here are some of the projects I’m working on:
 ### 📚 Currently Focused On
 - Deepening ML concepts through projects
 - Mastering React & Node.js for full stack development
-- Practicing DSA for placement preparation
 
 <br>
 
