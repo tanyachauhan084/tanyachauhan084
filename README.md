@@ -22,11 +22,14 @@
 
 ### 🚀 Projects
 Here are some of the projects I’m working on:
+
+- 💉 Diabetes Prediction (ML)
+- 🫀 Heart Disease Prediction (ML)
+- 🏦 Loan Status Predictor (ML)
+- 🪙 Gold Price Prediction (ML)
 - 🎯 Rock vs Mine Classification (ML)
 - 🏠 House Price Prediction (ML)
-- 📰 Fake News Detection (ML)
-- 💉 Diabetes Prediction (ML)
-
+  
 [👉 View my projects] (https://github.com/tanyachauhan084?tab=repositories)
 
 
