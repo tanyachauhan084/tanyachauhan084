@@ -5,7 +5,7 @@
 
 ### 💻 What I'm Learning
 - 🌱 Full Stack Web Development  
-- 🤖 Machine Learning (Python, scikit-learn, pandas, NumPy, Seaborn, Matplotlib.pyplot)  
+- 🤖 Machine Learning (Python, scikit-learn, pandas, NumPy, Seaborn, Matplotlib)  
 - ⚙️ Tools: Git, GitHub, Jupyter Notebook, VS Code
 
 <br>
